@@ -15,7 +15,7 @@
 # Configuation :
 
  ## Base de données : 
-   creer un fichier  .env  à la racine du projet s'il n'est pas présent  definissez les valeurs des variables suivantes : 
+   creer un fichier  .env ( s'il est present modifier le selon vos configs)  à la racine du projet s'il n'est pas présent  definissez les valeurs des variables suivantes : 
    - DB_HOST : qui représente l'hôte 
    - DB_USER : qui représente le nom de l'utilisateur de la base de données 
    - DB_PASSWORD :  qui represente le mot de passe de l'utilisateur de base de données
