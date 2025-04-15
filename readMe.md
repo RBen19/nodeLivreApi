@@ -68,3 +68,7 @@
 ## Delete : 
  pour faire la suppression du livre aussi il faut passer par son isbn 
  exemple url : `http://localhost:3000/api/v1/livres/delete/6666666666666`
+
+### tips: 
+ pour vider facilement la base si le besoin ce fait sentir pour faire une espèce
+ de "create-drop" mettre la propriété force à true au niveau de la syncro de sequelize dans le index.js
